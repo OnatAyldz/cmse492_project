@@ -10,10 +10,10 @@ Project Goals: The project initially focuses on arithmetic operations (addition,
 - Stage 3: Support complex mathematical functions including summations, logarithmic functions, and limits.
 
 
-##3. Motivation
+## 3. Motivation
 This project leverages Convolutional Neural Networks (CNNs) for classifying different sections of mathematical equations in images, providing a foundation for optical character recognition (OCR) with an emphasis on mathematical symbols.
 
 
-##4. Technologies Used
+## 4. Technologies Used
 - Programming Languages: Python
 - Libraries: TensorFlow/Keras (for neural network development), OpenCV (for image processing), NumPy, and others as needed for handling math functions and image preprocessing.

@@ -20,3 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#IPYNB Checkpoints
+.ipynb_checkpoints/

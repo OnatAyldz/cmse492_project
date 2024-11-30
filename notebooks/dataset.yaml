@@ -1,0 +1,17 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- +
+- '-'
+- '*'
+nc: 13
+train: /home/ayyildi1/CMSE492Project/cmse492_project/notebooks/yolo_equation_images
+val: /home/ayyildi1/CMSE492Project/cmse492_project/notebooks/yolo_equation_images
